@@ -8,11 +8,11 @@ It’s harvest time. We have a feed of harvest data from a data supplier. They s
 
 Data files are found in the folder `csv files`:
 
-- `harvest data – clean.csv` (use this for the first part of the exercise)
-- `harvest data – validation needed.csv` (use this for the “validation” part of the exercise)
-- `override.csv` (use this for the “Override” part of the exercise)
+- `harvest data – clean.csv` (use this for parts **(1)** and **(3)** of the exercise)
+- `harvest data – validation needed.csv` (use this for part **(2)** of the exercise)
+- `override.csv` (use this for part **(3)** of the exercise)
 
-### Output a standard result
+### (1) Output a standard result
 
 The fields in the file will be separated by commas but each row will vary in length as described below.
 
@@ -46,11 +46,11 @@ Transform this into a standard result that shows:
 - PA - Parsnips
 - O – Oats
 
-### Validation
+### (2) Validation
 
 If there is a problem with the format of the data file then all good entries should result in output and the error should go to a separate error log with the problem explained in non-technical language that a farmer might be able to understand and report back to the data service.
 
-### Override
+### (3) Override
 
 The data service may be behind the actual harvest data or may contain an error. We want to be able to combine the data file with an "override" file. If a County has an entry for a crop in the override file that value should be used instead of the original data file.
 If the crop is not present in the original data file the result should be added entirely from the override file.
