@@ -1,6 +1,6 @@
 # Harvest data
 
-_Please setup a Git repository on GitHub / GitLab / wherever, and do regular commits to show your progression, then share a link to the repository with the interviewer, prior to the interview itself. Preferably use Java or PHP for the programming exercise._
+_Please setup a Git repository on GitHub / GitLab / wherever, and do regular commits to show your progression, then share a link to your repository with the interviewer when finished. If you're unfamiliar with Git, email your solution back instead._
 
 It’s harvest time. We have a feed of harvest data from a data supplier. They supply us a file which will be updated throughout the month as harvest data comes in.
 
