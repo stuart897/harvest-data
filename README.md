@@ -37,14 +37,14 @@ Transform this into a standard result that shows:
 
 #### Crop codes
 
-- W - Wheat
-- B - Barley
-- M - Maize
-- BE - Beetroot
-- C - Carrot
-- PO - Potatoes
-- PA - Parsnips
-- O – Oats
+- W = Wheat
+- B = Barley
+- M = Maize
+- BE = Beetroot
+- C = Carrot
+- PO = Potatoes
+- PA = Parsnips
+- O = Oats
 
 ### (2) Validation
 
