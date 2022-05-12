@@ -2,6 +2,8 @@
 
 _Please setup a Git repository on GitHub / GitLab / wherever, and do regular commits to show your progression, then share a link to your repository with the interviewer when finished. If you're unfamiliar with Git, email your solution back instead._
 
+_Please do not use a full framework (e.g. Spring or Laravel) for the exercise. Also do not use a database (e.g. MySQL), instead the processing should occur directly in code._
+
 It’s harvest time. We have a feed of harvest data from a data supplier. They supply us a file which will be updated throughout the month as harvest data comes in.
 
 ## Data processing
