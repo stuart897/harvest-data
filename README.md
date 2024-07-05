@@ -59,7 +59,7 @@ If the crop is not present in the original data file the result should be added 
 
 ## Login webpage
 
-Make a non-functional (i.e. not integrated with any Java/PHP code, only HTML / CSS) webpage template, which will eventually be used to login to a Harvest Data website. Feel free to use any front-end framework (Bootstrap, Zurb etc), or vanilla CSS, the choice is open.
+Make a non-functional (i.e. not integrated with any Java code, only HTML / CSS) webpage template, which will eventually be used to login to a Harvest Data website. Feel free to use any front-end framework (Bootstrap, Zurb etc), or vanilla CSS, the choice is open.
 It should have the following features:
 
 - The NIAB Logo (found in the folder `login webpage\niab-logo.png`)
